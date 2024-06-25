@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **react,java,js,springboot**
 
-- 📫 How to reach me **ayanbaksi2002@gmail.com**
+- 📫 Reach me at **ayanbaksi2002@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/11Hl8rQQJFC9pQs_VO1X_TKAUfse1VR7I](https://drive.google.com/drive/folders/11Hl8rQQJFC9pQs_VO1X_TKAUfse1VR7I)
 
